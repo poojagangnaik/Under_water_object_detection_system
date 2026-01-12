@@ -1,0 +1,8 @@
+Green_Leaf
+Metal_Key
+Plastic_Car
+Plastic_Fish
+Plastic_Waste
+Sea_Shell
+Wooden_Bangle
+Wooden_Block

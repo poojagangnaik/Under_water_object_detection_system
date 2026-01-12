@@ -1,0 +1,41 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Green_Leaf"
+    },
+    {
+      "id": 1,
+      "name": "Metal_Key"
+    },
+    {
+      "id": 2,
+      "name": "Plastic_Car"
+    },
+    {
+      "id": 3,
+      "name": "Plastic_Fish"
+    },
+    {
+      "id": 4,
+      "name": "Plastic_Waste"
+    },
+    {
+      "id": 5,
+      "name": "Sea_Shell"
+    },
+    {
+      "id": 6,
+      "name": "Wooden_Bangle"
+    },
+    {
+      "id": 7,
+      "name": "Wooden_Block"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
